@@ -1,4 +1,4 @@
 # payment_integration
 
-in this i added paymob payment gateway to allow users to apy with credit cards and reference code from any machine in any market.
+In this app i added paymob payment gateway to allow users to apy with credit cards and reference code from any machine in any market.
 
